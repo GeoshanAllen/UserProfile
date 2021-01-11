@@ -1,0 +1,18 @@
+/* Button{
+size: 2rem;
+} */
+
+mat-menu{
+    size: 2rem;
+}
+
+.image{
+    height:40em; background-size:cover; width:auto;
+    background-image:url('../assets/Allen.png');
+    background-position:50% 50%;
+  }
+
+  .example-button-toggle-label {
+    display: inline-block;
+    margin: 16px;
+  }
