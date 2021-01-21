@@ -6,13 +6,20 @@ mat-menu{
     size: 2rem;
 }
 
-.image{
+/* .image{
     height:40em; background-size:cover; width:auto;
     background-image:url('../assets/Allen.png');
     background-position:50% 50%;
-  }
+  } */
 
   .example-button-toggle-label {
     display: inline-block;
     margin: 16px;
   }
+
+  /* body {
+    background-image: url('../assets/Allen.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    background-size: 100% 100%;
+  } */
