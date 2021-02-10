@@ -14,6 +14,10 @@ import {MatSlideToggleModule} from "@angular/material/slide-toggle";
 import {MatSnackBarModule} from "@angular/material/snack-bar";
 import {MatTabsModule} from "@angular/material/tabs";
 import {MatButtonToggleModule} from "@angular/material/button-toggle";
+import { MatProgressBarModule  } from "@angular/material/progress-bar";
+import { MatStepperModule } from "@angular/material/stepper";
+
+
 // import { } from "@angular/material/tree;
 
 
@@ -30,7 +34,8 @@ import {MatButtonToggleModule} from "@angular/material/button-toggle";
     NgbModule,
     MatSlideToggleModule,
     MatTabsModule,
-    MatButtonToggleModule,BrowserAnimationsModule
+    MatButtonToggleModule,BrowserAnimationsModule,
+    MatProgressBarModule,MatStepperModule
 
 
   ],
@@ -42,7 +47,8 @@ import {MatButtonToggleModule} from "@angular/material/button-toggle";
     MatButtonModule,
     MatSlideToggleModule,
     MatTabsModule,
-    MatButtonToggleModule,BrowserAnimationsModule
+    MatButtonToggleModule,BrowserAnimationsModule,
+    MatProgressBarModule, MatStepperModule
 
   ],
   providers: [],
